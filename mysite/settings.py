@@ -25,7 +25,7 @@ SECRET_KEY = '76@avg8+t2l7*k*zjw4)oifey^d)bn*-irswd)p8a1776%4$50'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','mapoon017.pythonanywhere']
+ALLOWED_HOSTS = ['127.0.0.1','mapoon017.pythonanywhere.com']
 
 
 # Application definition
